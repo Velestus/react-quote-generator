@@ -9,7 +9,7 @@ Solution used here is quite simple - I am providing fixed arrays of quotes and c
 ```js
 Math.floor(Math.random() * array.length);
 ``` 
-to randomly select index of quote and color value in those arrays. Then it smoothly transfers from old values to new ones. Transitions are defned inside CSS.
+to randomly select index of quote and color value in those arrays. Then it smoothly transfers from old values to new ones. Transitions are defined inside CSS.
 
 <!-- My Referrences -->
 [Create React App]: https://github.com/facebookincubator/create-react-app
